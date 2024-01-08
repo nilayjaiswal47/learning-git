@@ -1,3 +1,4 @@
 # learning-git
-learning git by apna college
+learning git by apna college.
+<br>
 Author - Shradha khapra
